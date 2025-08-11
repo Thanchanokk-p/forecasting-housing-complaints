@@ -76,7 +76,7 @@ Two main datasets were used (~2.5 GB total):
 ## 📂 Repository Structure
 ```bash
 ├── data/ # Raw and processed datasets (not included in repo)
-├── notebooks/ # Jupyter notebooks for EDA and modeling
+├── notebook/ # Jupyter notebooks for EDA and modeling
 ├── README.md # Project documentation
 └── requirements.txt # Dependencies
 ```
