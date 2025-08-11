@@ -1,0 +1,14 @@
+IPython
+geopandas
+imbalanced-learn
+joblib
+matplotlib
+missingno
+numpy
+pandas
+plotly
+scikit-learn
+scipy
+seaborn
+tensorflow
+xgboost
