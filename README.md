@@ -58,8 +58,10 @@ Two main datasets were used (~2.5 GB total):
 ## 📈 Key Insights
 - **Heat/Hot Water Complaints** account for 42% of reports, peaking in winter.
 - **The Bronx**, especially Grand Concourse, experiences the highest complaint density.
-- Building age is a strong predictor of heating issues.
-
+- **Building age** is a strong predictor of heating issues.
+  **Seasonal trends** show complaints spike sharply from October to February.
+- **Geospatial clustering** reveals high-density complaint zones in specific ZIP codes.
+- **Recall prioritization** is critical—missing urgent complaints has higher costs than false positives.
 ---
 
 ## 🔮 Future Improvements
@@ -72,8 +74,10 @@ Two main datasets were used (~2.5 GB total):
 ---
 
 ## 📂 Repository Structure
+```bash
 ├── data/ # Raw and processed datasets (not included in repo)
 ├── notebooks/ # Jupyter notebooks for EDA and modeling
 ├── scripts/ # Python scripts for preprocessing and modeling
 ├── README.md # Project documentation
 └── requirements.txt # Dependencies
+```
